@@ -12,10 +12,7 @@ It is a yum(whatprovides) for termux.
 ### Installation:
 clone repository and execute install.sh
 ```
-git clone https://github.com/kcubeterm/whatprovides
-cd whatprovides
-bash install.sh
-echo "Copy this too."
+pkg install whatprovides
 
 ```
 
