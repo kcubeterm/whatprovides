@@ -1,4 +1,6 @@
 # whatprovides.
+**This Repository has transferred to termux**
+Visit: https://GitHub.com/termux/whatprovides
 It is a yum(whatprovides) for termux.
 
 * whatprovides can list files of any termux official packages, doesn't matter that package is installed or not, it uses own database to perform task.
